@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c" icon="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;svg width=&quot;8.46667mm&quot; height=&quot;8.74889mm&quot;&#10; viewBox=&quot;0 0 30 31&quot;&#10; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;  version=&quot;1.2&quot; baseProfile=&quot;tiny&quot;&gt;&#10;&lt;title&gt;Fritzing Custom Icon&lt;/title&gt;&#10;&lt;desc&gt;Generated with Qt&lt;/desc&gt;&#10;&lt;defs&gt;&#10;&lt;/defs&gt;&#10;&lt;g fill=&quot;none&quot; stroke=&quot;black&quot; stroke-width=&quot;1&quot; fill-rule=&quot;evenodd&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;bevel&quot; &gt;&#10;&#10;&lt;image x=&quot;0&quot; y=&quot;0&quot; width=&quot;30&quot; height=&quot;31&quot; preserveAspectRatio=&quot;none&quot; xlink:href=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAJ1JREFUSIntlU0Rg0AMRh8OKgEpSKiE1glOkFIJSKAOkPD1UMqFQzchM+GQN5NbZt/ubH6gKIogurY09cDUkPiG7um/zlE8gdQY9yjpYJAKtESJZ6NYoPGs9OGQCrRudeGS3rYDPGJ968InHk9IfzFYpX2AVKCXVWxpn8hXp70Ykv4YEqsayOnjXZ4xuYC8WQ3G9mraTlffx0VR/OcDIePPSeW0pvQAAAAASUVORK5CYII=&quot; /&gt;&#10;&lt;/g&gt;&#10;&lt;/svg&gt;&#10;">
+    <title>Collected</title>
+    <instances>
+        <instance moduleIdRef="L298N_Module_V2__86a217b94075ad807fbca471c174fac7_1" modelIndex="85457866" path="/home/jman/.config/Fritzing/parts/user/L298N_Module_V2__86a217b94075ad807fbca471c174fac7_1.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="IRF540_module_0000_3b3d40d54bacc25f958c92718a0514d3_35" modelIndex="85458710" path="/home/jman/.config/Fritzing/parts/user/IRF540_module_0000_3b3d40d54bacc25f958c92718a0514d3_35.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="fan_Ventilador_8d9c1b834fb87e9bd979cc237f408b44_4" modelIndex="85457865" path="/home/jman/.config/Fritzing/parts/user/fan_Ventilador_8d9c1b834fb87e9bd979cc237f408b44_4.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="f5449721070fe504ba20394a28b0f4a8" modelIndex="85458694" path="/home/jman/.config/Fritzing/parts/contrib/BeagleBone_Black__7fab878f3c590bbf730a21e634512213.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="PocketBeagle_4977521f7a734d42cc836a64bc9df60a_14" modelIndex="85457875" path="/home/jman/.config/Fritzing/parts/user/PocketBeagle_4977521f7a734d42cc836a64bc9df60a_14.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="USB converer CP2102_a0a6f2322f63790c617626f6e31fbfab_2" modelIndex="85457870" path="/home/jman/.config/Fritzing/parts/user/USB converer CP2102_a0a6f2322f63790c617626f6e31fbfab_2.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+    </instances>
+</module>
